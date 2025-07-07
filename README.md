@@ -207,7 +207,7 @@ You are free to use, modify, and distribute it as you wish.
 
 ## 👨‍💻 Author & Credits
 
-- **Built by:** [Patrick Loeber](https://github.com/patrickloeber)  
+- **Built by:** [Patrick Loeber](https://github.com/patrickloeber/flask-todo)  
 - **Documentation by:** Sherry Kisilu
 
 If you found this project helpful or informative, feel free to ⭐ star the repo or fork it and make it your own!
